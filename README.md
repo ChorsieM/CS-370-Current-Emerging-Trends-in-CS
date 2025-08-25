@@ -2,47 +2,14 @@
 8-2 Portfolio 
 
 Pirate Intelligent Agent – Project Two
-Overview
+For this project, I was given starter code that set up the environment for the pirate intelligent agent. The provided code included the structure for the agent’s interactions, the rules of the environment, and some of the basic functions to track movement, actions, and rewards. From there, I created the code that made the agent “intelligent.” I wrote the logic for the agent to learn from its environment using reinforcement learning concepts, tested different parameters, and modified decision-making strategies so the agent could improve its ability to find treasure efficiently over time.
 
-This project implements a reinforcement learning–based pirate intelligent agent. The goal of the agent is to navigate an environment and learn to find treasure efficiently through trial and error. The project demonstrates how reinforcement learning concepts can be applied to problem solving, decision-making, and adaptive behavior.
+Connecting to the Larger Field of Computer Science
 
-Given Code
+Computer scientists solve problems by designing, testing, and improving systems that use logic and computation. Their work matters because it powers nearly every part of modern life—from healthcare and security to communication and entertainment. In this project, I practiced what computer scientists do every day: I took a real-world style problem, broke it into smaller steps, and built code to automate learning and decision-making.
 
-The starter code provided included:
-Environment setup for the pirate world (map, treasure locations, actions, and rewards).
+As a computer scientist, I approach problems by first analyzing the requirements, then experimenting with potential solutions, and finally refining my code based on testing and feedback. This mindset of breaking problems down and iterating until I find an efficient solution is central to the field.
 
-Functions to track the state of the agent and apply rules of the environment.
+Ethical Responsibilities
 
-A basic structure to integrate an agent into the simulation.
-
-My Contributions
-
-I created:
-The intelligent agent’s decision-making logic.
-
-Reinforcement learning functions for action selection, reward tracking, and policy updates.
-
-Testing and tuning of parameters (learning rate, discount factor, exploration/exploitation balance).
-
-Iterative improvements to help the agent find treasure more efficiently over time.
-
-How to Run:
-Open the Jupyter Notebook (pirate_agent.ipynb).
-
-Run the cells in order to initialize the environment and train the agent.
-
-Watch the agent’s performance improve across episodes as it learns to maximize rewards.
-
-Learning Connections: 
-This project connects to the larger field of computer science by showing how intelligent agents can model human-style problem-solving. It highlights reinforcement learning, a branch of artificial intelligence that is widely applied in robotics, recommendation systems, and game AI.
-
-Ethical Considerations:
-When developing intelligent systems, it is important to:
-
-Ensure fairness and avoid reinforcing bias in decision-making.
-
-Protect user privacy and data.
-
-Build systems that are transparent and reliable.
-
-Consider the real-world impact of deploying AI solutions.
+Working on intelligent agents reminded me that ethical responsibility is just as important as technical skill. As a computer scientist, I owe it to the end user to create systems that are safe, transparent, and reliable. I also owe it to the organization to write code that is maintainable, secure, and honest about its limitations. AI systems in particular must be built with fairness, accuracy, and privacy in mind so they don’t harm users or reinforce bias.
